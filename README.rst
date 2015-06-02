@@ -9,9 +9,7 @@ Events, by Valuehorizon
 .. image:: https://codeclimate.com/github/Valuehorizon/valuehorizon-events/badges/gpa.svg
    :target: https://codeclimate.com/github/Valuehorizon/valuehorizon-events
 
-A Django-based Foreign Exchange data toolkit. It provides time-series functionality
-with built-in statistical plugins such as volatility and returns. You can also write 
-your own statistical plugins.
+A Django-based Events data toolkit. 
 It also includes documentation, test coverage and a good amount of sample data to play around with.
 This app is a part of the Valuehorizon application ecosystem.
 
