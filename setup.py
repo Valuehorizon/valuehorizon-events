@@ -57,7 +57,7 @@ setup(
     keywords='django, app, reusable, events, valuehorizon',
     author='Quincy Alexander',
     author_email='qalexander@valuehorizon.com',
-    url="https://https://github.com/Valuehorizon/valuehorizon-events",
+    url="https://github.com/Valuehorizon/valuehorizon-events",
     packages=find_packages(),
     include_package_data=True,
     install_requires=install_requires,
